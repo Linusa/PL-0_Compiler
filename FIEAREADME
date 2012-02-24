@@ -1,0 +1,7 @@
+This project was made for my Systems Software class. We worked in a team of 3
+to create this compiler. We each worked on the virtual machine separately, so
+runVM is my own code. We collaborated to some extent on the runScanner code,
+but the bulk of the code was written by myself also. The runParser involved
+much more collaboration, and most of my contribution to that section was
+adding the code generating lines. "in.txt" and "input.txt" are provided
+as sample programs.
